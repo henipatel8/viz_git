@@ -18,3 +18,6 @@ class MoviesCmsItem(scrapy.Item):
     story = scrapy.Field()
     ## Implement the image ??
     pass
+
+    # hello
+    #hello
